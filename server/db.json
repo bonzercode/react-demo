@@ -1,0 +1,37 @@
+{
+    "users":[
+        {"id":1, "name":"Ajay", "city":"Saharsa"}
+    ],
+    "resumes":[
+        {
+            "id":"1",
+            "name":"Ajay Ranjan",
+            "dob":"14/04/1990",
+            "sex":"male",
+            "phone":"88979787",
+            "email":"ajay@test.com",
+            "alternateContactNo":"6565765765",
+            "permanentAddress":"House No-101, New Residencial Society, Gurgaon-122001",
+            "mailingAddress":"#1435 Sector-37, Noida 201301",
+            "profilePic":"",
+            "profile":{
+                "objective":"This is my Carreer Objective to be achived during my Job Tenure Carreer Objective to be achived during my Job Tenure Carreer Objective to be achived during my Job Tenure",
+                "description":"During my Job Tenure Carreer Objective to be achived during my Job Tenure Carreer Objective to be achived during my Job Tenure",
+                "expertise":["ReactJs"]
+            },
+            "skillSet":["REACT JS", "NodeJS", "Angular", "React-Native"],
+            "strengths":["hardworking", "honest", "quickLearner", "innovator"],
+            "languages":["Hindi", "English", "Spanish"],
+            "experiences":[
+                {"id":"1", "company":"Infosys Limited", "fromDate":"10/2021", "toDate":"09/2022", "reference":"Mr. Ram",
+                 "role":"Full Stack Developer", "achievements":["3 times Employee of the month"]},
+                {"id":"1", "company":"Wipro", "fromDate":"05/2018", "toDate":"04/2020", "reference":"Mr. Shyam",
+                 "role":"React Developer", "achievements":["Best programmer of the year"]},
+                {"id":"1", "company":"Accenture", "fromDate":"05/2016", "toDate":"04/2018", "reference":"Ms. Rashmi",
+                 "role":"LARAVEL Developer"}
+            ],
+            "certifications":["Full Stack Developement Certificate","MERN Stack", "MEAN Stack"],
+            "education":["BE(CSE)", "Intermediate(Mathematics)", "Matriculation(Science)"]
+        }
+    ]
+}
